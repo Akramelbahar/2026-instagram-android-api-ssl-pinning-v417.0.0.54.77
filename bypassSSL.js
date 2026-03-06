@@ -1,6 +1,6 @@
 /**
  * Instagram SSL Bypass v5 — mbedTLS confirmed path
- * 
+ * https://github.com/Akramelbahar/2026-instagram-android-api-ssl-pinning-v417.0.0.54.77
  * CONFIRMED CALL CHAIN (from backtrace):
  *   TigonMNSServiceHolder.runEVLoop (Java)
  *     → FUN_00373118  +0x373118  (TCP event loop)
@@ -248,4 +248,5 @@ waitForModule(['libstartup.so', 'libmain.so'], mod => {
 
   console.log('\n[*] Bypass v5 armed — 5 layers targeting confirmed mbedTLS path\n');
 });
+
 
