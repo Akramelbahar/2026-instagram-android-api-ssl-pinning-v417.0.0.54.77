@@ -46,7 +46,8 @@ TigonMNSServiceHolder.runEVLoop   (Java)
 frida -U -f com.instagram.android -l frida/bypassSSL.js --no-pause
 ```
 
-> Have better offsets for a newer APK? Working on JA3 spoofing?  
+> use the provided the 'libstartup.so' script dont work maybe by adb push D:\patched\libstartup.so /data/data/com.instagram.android/lib-compressed/libstartup.so
+ 
 > **Open an issue — happy to collaborate.**
 
 ---
