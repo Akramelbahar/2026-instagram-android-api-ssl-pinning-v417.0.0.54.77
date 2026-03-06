@@ -24,6 +24,12 @@ Usage:
     print(r.token)         # Bearer IGT:2:... or None
 """
 
+"""
+
+This file contains the public interface of InstagramClient.
+Implementation is available to buyers — contact @TrmaCHABA on Telegram.
+"""
+
 from __future__ import annotations
 import json, re, base64, logging
 from dataclasses import dataclass, field
