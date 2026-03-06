@@ -30,7 +30,14 @@
  *   so the wrapper returns success (0) instead of calling the error path.
  *
  *   ALSO: hook the error dispatch in FUN_00530e20 to swallow the error branch.
+ *                     This file contains the public interface of InstagramClient.
+ *                     Implementation is available to buyers — contact @TrmaCHABA on Telegram.
+
  */
+
+
+
+
 
 "use strict";
 
@@ -241,3 +248,4 @@ waitForModule(['libstartup.so', 'libmain.so'], mod => {
 
   console.log('\n[*] Bypass v5 armed — 5 layers targeting confirmed mbedTLS path\n');
 });
+
