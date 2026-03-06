@@ -4,6 +4,7 @@ Instagram v417.0.0.54.77 · Private API · 90+ endpoints
 
 This file contains the public interface of InstagramClient.
 Implementation is available to buyers — contact @TrmaCHABA on Telegram.
+https://github.com/Akramelbahar/2026-instagram-android-api-ssl-pinning-v417.0.0.54.77
 """
 
 
