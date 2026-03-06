@@ -116,7 +116,7 @@ client.search_account_serp(query)
 
 Contact me on Telegram to talk about what you're building, pricing, and access:
 
-> **[@trmachabba](https://t.me/trmachabba)**
+> **[@TrmaCHABA](https://t.me/TrmaCHABA)**
 
 ---
 
