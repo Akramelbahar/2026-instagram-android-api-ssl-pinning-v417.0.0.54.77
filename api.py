@@ -3,7 +3,7 @@ Instagram Android API Client — Method Reference
 Instagram v417.0.0.54.77 · Private API · 90+ endpoints
 
 This file contains the public interface of InstagramClient.
-Implementation is available to buyers — contact @YOUR_HANDLE on Telegram.
+Implementation is available to buyers — contact @trmachabba on Telegram.
 """
 
 from __future__ import annotations
