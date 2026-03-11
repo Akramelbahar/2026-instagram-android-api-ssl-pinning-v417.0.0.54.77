@@ -1,5 +1,7 @@
 /**
 contact me on tg and I will give it to you for free
+https://t.me/trmachabba
+
  * Instagram SSL Bypass v5 — mbedTLS confirmed path
  * https://github.com/Akramelbahar/2026-instagram-android-api-ssl-pinning-v417.0.0.54.77
  * CONFIRMED CALL CHAIN (from backtrace):
@@ -35,6 +37,7 @@ contact me on tg and I will give it to you for free
  *                     Implementation is available to buyers — contact @TrmaCHABA on Telegram.
 
  */
+
 
 
 
